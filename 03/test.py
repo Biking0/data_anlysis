@@ -8,3 +8,6 @@ a=np.arange(20)
 
 print(a[3])
 
+input('input:')
+
+print(a[3])
